@@ -1,13 +1,13 @@
 <html>
 <head>
-<title>Hello World!</title>
+<title>Hello Cloudthat!</title>
 </head>
 <body>
-	<h1>Hello World!</h1>
+	<h1>Hello Cloudthat!</h1>
 	<p>
-		It is now
+		Current time now is
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from 
+		This is machine 
 		<%= request.getRemoteAddr()  %></p>
 </body>
